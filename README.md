@@ -1,5 +1,6 @@
 # Cities Powerlines
 Juego de simulación hecho en Unity.
+Hecho por FranGamer1892 y GlowGlew.
 
 ![Menu de inicio](https://user-images.githubusercontent.com/13150712/200144135-3eda534a-6646-405c-9009-ada993560913.png)
 ![Tutorial](https://user-images.githubusercontent.com/13150712/200144147-b58b0791-020d-4b3a-9d71-e79d1e24807c.png)
