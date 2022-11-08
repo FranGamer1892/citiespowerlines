@@ -1,4 +1,4 @@
-#Cities Powerlines
+# Cities Powerlines
 
 Juego de simulación hecho en Unity 2022.2.0b4.
 
@@ -6,7 +6,7 @@ Juego de simulación hecho en Unity 2022.2.0b4.
 ![Tutorial](https://user-images.githubusercontent.com/13150712/200144147-b58b0791-020d-4b3a-9d71-e79d1e24807c.png)
 ![Juego](https://user-images.githubusercontent.com/13150712/200458118-aa36ab27-16e9-4778-b868-d2b0f1ea32cd.png)
 
-#Créditos y licencia
+# Créditos y licencia
 
 Hecho por FranGamer1892 y GlowGlew.
 
