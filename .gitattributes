@@ -1,1 +1,1 @@
-'Assets/TextMesh Pro/Shaders/*' linguist-vendored
+*.shader linguist-vendored
